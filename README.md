@@ -36,4 +36,4 @@ Drawing parallels between the structure of the regression model and the hierarch
 
 # Vertigo
 
-What a movie!!
+*If I'm mad, that would explain it, wouldn't it? - Vertigo*
